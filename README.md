@@ -9,7 +9,7 @@ Wer am Ende die meisten Leute getötet hat, gewinnt einen wunderbaren Preis.
 
 ## Anmeldung
 
-Meldet euch bitte auf der Seite [moerderspiel.org/stet21](http://moerderspiel.org/stet21) an.
+Meldet euch bitte auf der Seite [moerderspiel.org/stet_21](http://moerderspiel.org/stet_21) an.
 Dabei müsst ihr euren Namen, eure E-Mail-Adresse, und euer Studienfach angeben (Lehrämtler können sich evtl. 1 von den beiden aussuchen).
 Gebt bitte beu eurem Namen an, ob ihr Ersti, Orga, oder Gast seid.
 Das Feld "Gruppe" lasst ihr bitte frei.
@@ -42,7 +42,7 @@ Es gibt auch eine Version des Spiels, in der ein Mord nicht von Zeugen gesehen w
 
 #### Reports
 
-Bei einem Mord A -> B muss A den Mord auf der Seite [moerderspiel.org/stet21](http://moerderspiel.org/stet21) melden. Dafür müsst ihr den Signaturcode des Auftrags eintragen.
+Bei einem Mord A -> B muss A den Mord auf der Seite [moerderspiel.org/stet_21](http://moerderspiel.org/stet_21) melden. Dafür müsst ihr den Signaturcode des Auftrags eintragen.
 Ihr könnt dabei irgendeine lustige Fantasie angeben, wie B brutal/trickreich/tollpatschig ermordet wurde.
 
 ## Subkreise
