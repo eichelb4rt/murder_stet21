@@ -27,9 +27,9 @@ Wenn man jemanden tötet, bekommt man einen der Aufträge des Opfers.
 Für einen Mord A -> B (Person A tötet Person B) müssen genau die folgenden Bedingungen gelten:
 
 1. A ÜBERGIBT B einen Gegenstand G:
-    - es gibt einen Zeitpunkt, zudem nur A G hält
-    - es gibt einen Zeitpunkt, zudem A und B G berühren
-    - es gibt einen Zeitpunkt, zudem nur B G hält
+    - es gibt einen Zeitpunkt t_0, zudem nur A G hält
+    - es gibt einen Zeitpunkt t_1 > t_0, zudem A und B G berühren
+    - es gibt einen Zeitpunkt t_2 > t_1, zudem nur B G hält
 2. A hat B als Auftrag
 
 Wege, wie ein Mord verhindert werden kann:
