@@ -31,6 +31,7 @@ Für einen Mord A -> B (Person A tötet Person B) müssen genau die folgenden Be
     - es gibt einen Zeitpunkt t_1 > t_0, zudem A und B G berühren
     - es gibt einen Zeitpunkt t_2 > t_1, zudem nur B G hält
 2. A hat B als Auftrag
+3. A sagt B "du bist tot" und meldet den Mord (siehe Reports)
 
 Wege, wie ein Mord verhindert werden kann:
 
